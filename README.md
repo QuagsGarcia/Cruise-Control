@@ -1,0 +1,1 @@
+This script does exactly what the title states, cruise control. You can set custom keybinds for setting canceling and increasing or decreasing speed. The speed is kept by adding throttle to the vehicles with varation.
